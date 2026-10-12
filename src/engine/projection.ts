@@ -9,7 +9,6 @@ import {
   taxableSocialSecurity,
 } from './tax';
 import type {
-  Account,
   AccountType,
   Assumptions,
   Balances,
