@@ -19,3 +19,9 @@ __pycache__/
 *.local.json
 plans/
 data/private/
+
+# Third-party raw data cache and test output
+.cache/
+test-results/
+playwright-report/
+artifacts/
