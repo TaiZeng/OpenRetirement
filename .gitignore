@@ -1,0 +1,21 @@
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Dependencies and builds
+node_modules/
+dist/
+build/
+coverage/
+.venv/
+__pycache__/
+
+# Secrets and personal financial data: never commit
+.env
+.env.*
+!.env.example
+*.local.json
+plans/
+data/private/
