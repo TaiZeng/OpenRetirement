@@ -19,3 +19,12 @@ __pycache__/
 *.local.json
 plans/
 data/private/
+
+# Third-party raw data cache and test output
+.cache/
+test-results/
+playwright-report/
+artifacts/
+
+# Third-party data, downloaded locally by scripts/build-returns.mjs (not redistributed)
+src/data/historicalReturns.ts

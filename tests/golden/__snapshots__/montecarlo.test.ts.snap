@@ -1,0 +1,8 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Monte Carlo golden: fixed seed is reproducible > matches the recorded snapshot for seed 12345 1`] = `
+{
+  "medianFinal": 5131470,
+  "successRate": 0.9866666666666667,
+}
+`;
