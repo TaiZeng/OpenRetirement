@@ -25,3 +25,6 @@ data/private/
 test-results/
 playwright-report/
 artifacts/
+
+# Third-party data, downloaded locally by scripts/build-returns.mjs (not redistributed)
+src/data/historicalReturns.ts
